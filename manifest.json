@@ -1,0 +1,11 @@
+{
+  "name": "<имя_мода>_RU",
+  "version_number": "1.0.1",
+  "author": "lijspoop",
+  "website_url": "https://github.com/lijspoop/<имя_мода>_RU",
+  "description": "Перевод мода <имя_мода> на Русский.",
+  "dependencies": [
+    "ASharpPen-This_Goes_Here-2.1.1", УБРАТЬ ЕСЛИ МОЖНО ОБОЙТИСЬ YAML ФАЙЛОМ
+    "<Dependency-string-мода>"
+  ]
+}
