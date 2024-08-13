@@ -1,4 +1,0 @@
-PrintComment: Translated [<автор-имя_мода>]
-CopyFile:
-- From: plugins/lijspoop-<имя_мода>_RU/translations.json
-  To: plugins/<автор-имя_мода>/<файл_перевода>.json

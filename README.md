@@ -1,7 +1,7 @@
-# <имя_мода>_RU
-Перевод мода [<имя_мода и версия>](https://thunderstore.io/c/valheim/p/<автор>/<имя_мода>/) на Русский язык.
+# ValheimRAFT_RU
+Перевод мода [ValheimRAFT 2.2.3](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) на Русский язык.
 
-> Внимание! Эта модификация автоматически перезаписывает файл `translations.json` оригинальной модификации в папке `BepInEx\plugins\<автор-имя_мода>`.
+Благодарю [gotdemon](https://thunderstore.io/c/valheim/p/gotdemon/ValheimRAFT_RUS/). Бóльшая часть перевода взята у него.
 
 #
 <a href="https://discord.gg/TB4rQwNPUh"><img src="https://i.imgur.com/o90tywm.jpg" title="Discord сервер"></a>
